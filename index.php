@@ -21,6 +21,9 @@ Kenzo Nagari 86942458
 <img src="kenzo.png" style="width: 516px; height:513px">
 <br>
 Duncan is doombreaker
+I like the food at techno
+Techno is the best canteen in NUS
+I usually eat item no 4 from the noodle stall
 <br>
 <img src="duncan.jpg">
 <br>
