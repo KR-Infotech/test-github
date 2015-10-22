@@ -19,6 +19,10 @@ Ng Kai Sing 91126669
 <br>
 Kenzo Nagari 86942458
 <br>
+HUMAN BLOOD
+<br>
+<img src="juon.jpg" style="width: 1280px; height:1204px">
+<br>
 <img src="kenzo.png" style="width: 516px; height:513px">
 <br>
 Duncan is doombreaker
