@@ -9,11 +9,14 @@ Rex the Dinosaur
 
 <p>Hailing 84536143<p>
 
-=======
 <br>
-<p>Hailing 84536143<p>
+Kenzo Nagari 86942458
 <br>
-Duncan is doombreaker
+<img src="kenzo.png" style="width: 516px; height:513px">
 <br>
+
 <img src="duncan.jpeg">
+
+<p>Hailing 84536143<p>
+
 
