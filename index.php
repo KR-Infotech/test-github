@@ -28,4 +28,6 @@ I usually eat item no 4 from the noodle stall
 <br>
 <img src="duncan.jpg">
 <br>
-
+Sugi 82509110
+<br>
+<img src="https://s-media-cache-ak0.pinimg.com/736x/a7/8d/10/a78d10b9cb9f78dac7421c08370046ca.jpg">
