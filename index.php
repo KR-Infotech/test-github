@@ -8,7 +8,7 @@ Rex the Dinosaur
 <br>
 <img src="IMG_0364.jpg" style="width: 300px; height:180px">
 
-<p>Hailing 84536143<p>
+<p>Hailing 84536143 Laksa<p>
 
 Ng Kai Sing 91126669
 <br>
