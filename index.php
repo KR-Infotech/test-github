@@ -9,6 +9,10 @@ Rex the Dinosaur
 
 <p>Hailing 84536143<p>
 
+Ng Kai Sing 91126669
+<br>
+<img src="ks.jpg" style="width: 300px; height:180px">
+
 <br>
 Kenzo Nagari 86942458
 <br>
