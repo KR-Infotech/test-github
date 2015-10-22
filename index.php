@@ -12,6 +12,7 @@ Rex the Dinosaur
 <p>Hailing 84536143 Laksa<p>
 
 Ng Kai Sing 91126669
+Salted Fish
 <br>
 <img src="ks.jpg" style="width: 300px; height:180px">
 
