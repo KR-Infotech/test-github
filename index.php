@@ -11,7 +11,6 @@ Rex the Dinosaur
 <p>Hailing 84536143<p>
 
 Ng Kai Sing 91126669
-Salted Fish
 <br>
 <img src="ks.jpg" style="width: 300px; height:180px">
 
@@ -21,9 +20,6 @@ Kenzo Nagari 86942458
 <img src="kenzo.png" style="width: 516px; height:513px">
 <br>
 Duncan is doombreaker
-I like the food at techno
-Techno is the best canteen in NUS
-I usually eat item no 4 from the noodle stall
 <br>
 <img src="duncan.jpg">
 <br>
