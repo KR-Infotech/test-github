@@ -21,6 +21,6 @@ Kenzo Nagari 86942458
 <br>
 Duncan is doombreaker
 <br>
-<img src="duncan.jpeg">
+<img src="duncan.jpg">
 <br>
 
