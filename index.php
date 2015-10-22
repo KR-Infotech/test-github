@@ -23,4 +23,4 @@ Duncan is doombreaker
 <br>
 <img src="duncan.jpeg">
 <br>
-<p>Hailing 84536143<p>
+
