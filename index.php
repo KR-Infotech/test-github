@@ -5,3 +5,6 @@ Nicholas Lui
 Kenzo Nagari 86942458
 <br>
 <img src="kenzo.png" style="width: 516px; height:513px">
+<br>
+<p>Hailing 84536143<p>
+
