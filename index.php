@@ -18,9 +18,10 @@ Kenzo Nagari 86942458
 <br>
 <img src="kenzo.png" style="width: 516px; height:513px">
 <br>
-
+Duncan is doombreaker
+<br>
 <img src="duncan.jpeg">
-
+<br>
 <p>Hailing 84536143<p>
 
 
